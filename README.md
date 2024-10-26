@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 25/04/24
+### DATE: 25/10/24
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
